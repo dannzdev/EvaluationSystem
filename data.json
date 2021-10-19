@@ -1,0 +1,57 @@
+{
+  "preguntas": [
+    {
+    "pregunta": "Quien es Darth Vader?",
+    "respuestas": {
+        "a": "Padre de Luke",
+        "b": "Padre del Wookie",
+        "c": "Padre de Luke y Leia",
+        "d": "Padre del Wookie"
+      },
+      "respuestaCorrecta": "c"
+    },
+    {
+    "pregunta": "Como se creo C3PO",
+    "respuestas": {
+        "a": "Lo creo Anakin",
+        "b": "Salio de un Basuero ",
+        "c": "Es de Jabba",
+        "d": "BobbaFet lo creo"
+      },
+      "respuestaCorrecta": "a"
+    },
+    {
+    "pregunta": "Quien es R2D2",
+    "respuestas": {
+          "a": "Un robot",
+          "b": "El mejor amigo de Obi-wan",
+          "c": "un Cyborg",
+          "d": "Un ente"
+      },
+      "respuestaCorrecta": "b"
+    },
+    {
+    "pregunta": "Leia y Luke son Hermanos?",
+    "respuestas": {
+      "a": "Si",
+      "b": "No ",
+      "c": "Tal Vez",
+      "d": "Imposible"
+      },
+      "respuestaCorrecta": "a"
+    },
+    {
+      "pregunta": "Darth Sirius esta muerto?",
+      "respuestas": {
+          "a": "Si",
+          "b": "No ",
+          "c": "Tal Vez",
+          "d": "Imposible"
+        },
+        "respuestaCorrecta": "b"
+      }
+  ]
+}
+
+  
+
