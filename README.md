@@ -5,13 +5,15 @@
 In the next few steps I managed to solve the challenge, however it was slightly difficult for me to accomplish 1 objective that was connecting the API i really try hard, but i think i need to practice more, to improve my Javascript basis.</div>  
   
 
-- 🔭 I planned the flow diagram 
+- 🔭 I planned the flow diagram, then implemented coding.
   
 
 - 👍 Establish Variables, Color-Palette, Fonts, Margins, and globals.
   
 
-- 👾 Implemented Javascript, HTML, CSS/SAAS. 
+- 👾 Implemented Javascript, HTML, CSS/SAAS.
+
+- 👾 Github Pages DEployment : https://dannzdev.github.io/EvaluationSystem/
     
   
 
