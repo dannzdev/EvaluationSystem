@@ -11,7 +11,7 @@ In the next few steps I managed to solve the challenge:
   
 - 👾 Implemented Javascript, HTML, CSS/SAAS.
 
-- 👾 Github Pages DEployment : https://dannzdev.github.io/EvaluationSystem/
+- 👾 Github Pages DEployment : https://evaluation-system.netlify.app/
     
   
 
